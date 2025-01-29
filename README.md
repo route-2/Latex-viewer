@@ -16,7 +16,7 @@ A **Flask-based LaTeX PDF Viewer** that automatically compiles `.tex` files into
 
 ### **🔹 1. Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/latex-viewer.git
+git clone https://github.com/route-2/latex-viewer.git
 cd latex-viewer
 
 ---
